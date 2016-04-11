@@ -1,0 +1,89 @@
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\ApplicationInsights.config
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\csc.exe
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\vbc.exe
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.Tests.dll.config
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.Tests.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.Tests.pdb
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\System.Web.Optimization.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Security.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Owin.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\EntityFramework.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.pdb
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\System.Web.Optimization.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Security.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\EntityFramework.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\obj\Debug\iMIS.Tests.csprojResolveAssemblyReference.cache
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\obj\Debug\iMIS.Tests.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\obj\Debug\iMIS.Tests.pdb
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\ApplicationInsights.config
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\csc.exe
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\vbc.exe
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.Tests.dll.config
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.Tests.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.Tests.pdb
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Owin.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\EntityFramework.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\iMIS.pdb
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\EntityFramework.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\obj\Debug\iMIS.Tests.csprojResolveAssemblyReference.cache
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\obj\Debug\iMIS.Tests.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS.Tests\obj\Debug\iMIS.Tests.pdb

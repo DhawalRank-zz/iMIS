@@ -1,0 +1,129 @@
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\ApplicationInsights.config
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\csc.exe
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\System.Collections.Immutable.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\System.Reflection.Metadata.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\vbc.exe
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\VBCSCompiler.exe
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\VBCSCompiler.exe.config
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\iMIS.dll.config
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\iMIS.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\iMIS.pdb
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Antlr3.Runtime.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\AspNet.ScriptManager.bootstrap.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\AspNet.ScriptManager.jQuery.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\EntityFramework.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\EntityFramework.SqlServer.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.DependencyCollector.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.Web.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.WindowsServer.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.ApplicationInsights.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Google.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.ScriptManager.WebForms.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Web.Infrastructure.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Newtonsoft.Json.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Owin.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\System.Web.Optimization.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\System.Web.Providers.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\WebGrease.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.DependencyCollector.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.Web.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.WindowsServer.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.ApplicationInsights.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\System.Web.Optimization.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Antlr3.Runtime.pdb
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Newtonsoft.Json.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\EntityFramework.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\EntityFramework.SqlServer.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\System.Web.Providers.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Google.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\obj\Debug\iMIS.csprojResolveAssemblyReference.cache
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\obj\Debug\iMIS.dll
+I:\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\obj\Debug\iMIS.pdb
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\ApplicationInsights.config
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\csc.exe
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\System.Collections.Immutable.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\System.Reflection.Metadata.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\vbc.exe
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\VBCSCompiler.exe
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\roslyn\VBCSCompiler.exe.config
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\iMIS.dll.config
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\iMIS.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\iMIS.pdb
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.DependencyCollector.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.Web.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AI.WindowsServer.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.ApplicationInsights.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\System.Web.Optimization.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Antlr3.Runtime.pdb
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Newtonsoft.Json.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\EntityFramework.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\EntityFramework.SqlServer.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\System.Web.Providers.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Google.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\obj\Debug\iMIS.csprojResolveAssemblyReference.cache
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\obj\Debug\iMIS.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\obj\Debug\iMIS.pdb
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\obj\Debug\RdlCompile.cache
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\obj\Debug\RdlCompile.compiled
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\itextsharp.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\itextsharp.pdfa.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\itextsharp.xtra.dll
+E:\Winter 2016\Winter 2016\03-60-615-01  (Advanced Database Topics)\Project\iMIS\iMIS\bin\itextsharp.xml
